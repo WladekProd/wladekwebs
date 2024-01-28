@@ -73,7 +73,7 @@
   padding: 50px 0px;
   list-style: none;
 }
-.custom-menu li {
+.custom-menu a li {
   display: flex !important;
   justify-items: center !important;
   align-items: center !important;
