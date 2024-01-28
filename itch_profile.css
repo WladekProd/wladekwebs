@@ -73,19 +73,16 @@
   padding: 50px 0px;
   list-style: none;
 }
-.custom-menu a li {
-  display: flex !important;
-  justify-items: center !important;
-  align-items: center !important;
-  flex-flow: nowrap !important;
-  text-transform: uppercase !important;
-}
 .custom-menu li {
+  display: flex;
   width: 125px;
   height: 50px;
   transition: background-position-x 0.9s linear;
   text-align: center;
   cursor: pointer;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
 
   a {
     font-size: 22px;
