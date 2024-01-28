@@ -79,6 +79,13 @@
   align-items: center;
   flex-flow: nowrap;
   text-transform: uppercase;
+}
+.custom-menu li {
+  width: 125px;
+  height: 50px;
+  transition: background-position-x 0.9s linear;
+  text-align: center;
+  cursor: pointer;
 
   a {
     font-size: 22px;
