@@ -132,7 +132,12 @@
     align-items: start;
 }
 .game_grid_widget .game_cell {
-    width: 330px;
+  transition: .3s;
+  width: 330px;
+}
+.game_grid_widget .game_cell:hover {
+  transition: .3s;
+  scale: 1.05;
 }
 
 /* Icons */
