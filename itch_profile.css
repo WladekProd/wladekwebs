@@ -74,11 +74,11 @@
   list-style: none;
 }
 .custom-menu li {
-  display: flex;
-  justify-items: center;
-  align-items: center;
-  flex-flow: nowrap;
-  text-transform: uppercase;
+  display: flex !important;
+  justify-items: center !important;
+  align-items: center !important;
+  flex-flow: nowrap !important;
+  text-transform: uppercase !important;
 }
 .custom-menu li {
   width: 125px;
