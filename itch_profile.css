@@ -82,6 +82,7 @@
 .custom-menu li {
   width: 125px;
   height: 50px;
+  padding: 0px 15px;
   transition: background-position-x 0.9s linear;
   text-align: center;
   cursor: pointer;
@@ -136,6 +137,7 @@
 
 /* Icons */
 .custom-icon {
+  padding: 0px 6px;
   display: inline-block;
   width: 30px;
 }
