@@ -74,11 +74,11 @@
   list-style: none;
 }
 .custom-menu li {
-  width: 125px;
-  height: 50px;
-  transition: background-position-x 0.9s linear;
-  text-align: center;
-  cursor: pointer;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  flex-flow: nowrap;
+  text-transform: uppercase;
 
   a {
     font-size: 22px;
