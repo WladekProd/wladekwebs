@@ -166,7 +166,7 @@ a:hover {
 }
 
 .custom-text-white {
-    color: #f2f3f5
+    color: #f2f3f5 !important
 }
 
 .custom-text-center {
@@ -178,7 +178,7 @@ a:hover {
 }
 
 .custom-text-extra-small.custom-text-center.custom-text-black-opacity {
-    color: rgba(23, 22, 27, .6)
+    color: rgba(23, 22, 27, .6) !important
 }
 
 .custom-text-large {
@@ -186,7 +186,7 @@ a:hover {
 }
 
 .custom-text-white-opacity {
-    color: rgba(242, 243, 245, .6)
+    color: rgba(242, 243, 245, .6) !important
 }
 
 .custom-mb-20 {
