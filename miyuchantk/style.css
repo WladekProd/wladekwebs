@@ -31,15 +31,6 @@ img {
     box-sizing: border-box !important;
 }
 
-body {
-    margin: 0 !important;
-    min-height: 100% !important;
-    font-family: 'Chakra Petch', sans-serif !important;
-    font-size: 18px !important;
-    line-height: 1.4 !important;
-    letter-spacing: 1px !important;
-}
-
 div#inner_column {
     max-width: 100%;
     min-width: 100%;
@@ -162,7 +153,13 @@ a:hover {
 }
 
 .custom-wrap {
-    overflow: hidden
+    overflow: hidden;
+    margin: 0 !important;
+    min-height: 100% !important;
+    font-family: 'Chakra Petch', sans-serif !important;
+    font-size: 18px !important;
+    line-height: 1.4 !important;
+    letter-spacing: 1px !important;
 }
 
 .custom-text-white {
