@@ -598,7 +598,7 @@ a:hover {
 
 .custom-weapon-image {
     width: 130%;
-    max-width: 130%;
+    max-width: 130% !important;
     margin-top: -150px;
     margin-bottom: -200px;
     margin-left: -30%;
