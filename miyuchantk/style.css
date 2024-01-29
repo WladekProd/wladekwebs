@@ -340,8 +340,7 @@ a:hover {
     overflow: hidden;
     padding-top: 80px;
     background-color: #1f191b;
-    /* background-image: url("../images/5fa2d8f50c16a000b9a20e29_fps-bg-primary.jpg"); */
-    background-image: url("../img/header.jpg");
+    background-image: url("https://wladekprod.github.io/wladekwebs/miyuchantk/header.jpg");
     background-position: inherit;
     background-size: 87%;
     background-repeat: no-repeat
@@ -358,7 +357,7 @@ a:hover {
 }
 
 .custom-section.custom-light.custom-about-fps {
-    background-image: url("../img/info.jpg");
+    background-image: url("https://wladekprod.github.io/wladekwebs/miyuchantk/info.jpg");
     background-position: 100% 0;
     background-size: cover;
     background-repeat: no-repeat
