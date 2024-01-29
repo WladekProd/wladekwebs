@@ -1,21 +1,21 @@
 @import url("particles.css");
 
 a {
-    background-color: transparent !important;
-    color: #ff1757 !important;
-    text-decoration: underline !important;
+    background-color: transparent;
+    color: #ff1757;
+    text-decoration: underline;
 }
 
 a:active,
 a:hover {
-    outline: 0 !important;
+    outline: 0;
 }
 
 img {
-    border: 0 !important;
-    max-width: 100% !important;
-    vertical-align: middle !important;
-    display: inline-block !important;
+    border: 0;
+    max-width: 100%;
+    vertical-align: middle;
+    display: inline-block;
 }
 
 @font-face {
@@ -26,9 +26,9 @@ img {
 }
 
 * {
-    -webkit-box-sizing: border-box !important;
-    -moz-box-sizing: border-box !important;
-    box-sizing: border-box !important;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 div#inner_column {
