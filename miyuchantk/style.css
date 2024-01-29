@@ -443,7 +443,7 @@ a:hover {
 }
 
 .custom-header-fps-hero {
-    max-width: 280%;
+    max-width: 280% !important;
     margin-bottom: -30%;
     margin-left: -90%;
 }
