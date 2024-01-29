@@ -42,6 +42,20 @@ img {
     letter-spacing: 1px
 } */
 
+div#inner_column {
+    max-width: 100%;
+    min-width: 100%;
+}
+div#header {
+    display: none;
+}
+.formatted_description.user_formatted {
+    margin: 0px;
+}
+.columns {
+    margin-top: 0;
+}
+
 .custom-w-inline-block {
     max-width: 100%;
     display: inline-block;
