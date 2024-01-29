@@ -338,7 +338,7 @@ a:hover {
 .custom-header-fps {
     position: relative;
     overflow: hidden;
-    padding-top: 80px;
+    padding-top: 24px;
     background-color: #1f191b;
     background-image: url("https://wladekprod.github.io/wladekwebs/miyuchantk/header.jpg");
     background-position: inherit;
