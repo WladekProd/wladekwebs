@@ -53,6 +53,12 @@ div#header {
 .columns {
     margin-top: 0;
 }
+.user_formatted a[rel~=nofollow]:hover>img, .user_formatted a[rel~=nofollow]:focus>img {
+    box-shadow: 0 0 0 0px transparent;
+}
+.user_formatted a[rel~=nofollow]:hover:after, .user_formatted a[rel~=nofollow]:focus:after {
+    display: none;
+}
 
 .custom-w-inline-block {
     max-width: 100%;
