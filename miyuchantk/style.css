@@ -57,6 +57,14 @@ div#header {
 .screenshot_container img {
     max-width: none;
 }
+.community_post_form_widget {
+    display: flex;
+    justify-content: center;
+}
+.community_post_list_widget {
+    display: inline-block;
+    text-align: left;
+}
 @media (max-width: 1000px) {
     .responsive .wrapper {
         padding: 0 0;
