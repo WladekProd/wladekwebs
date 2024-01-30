@@ -58,7 +58,13 @@ div#header {
     max-width: none;
 }
 @media (max-width: 1000px) {
-    .responsive .view_game_page .screenshot_list img {
+    .responsive .wrapper {
+        padding: 0 0;
+    }
+    .responsive .view_game_page .columns .right_col {
+        display: none !important;
+    }
+    .responsive .view_game_page .header_buy_row {
         display: none !important;
     }
 }
