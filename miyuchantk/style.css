@@ -68,6 +68,23 @@ div#header {
     display: inline-block;
     text-align: left;
 }
+.more_information_toggle {
+    padding: 50px 20px 10px 20px;
+}
+.view_game_page.buy_on_top .header_buy_row, #download, .buy_row, .uploads > p, .view_game_page .more_information_toggle .toggle_row {
+    text-align: center;
+}
+.view_game_page .info_panel_wrapper {
+    width: 960px;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 1.5rem;
+    box-sizing: border-box;
+}
+.view_game_page .game_info_panel_widget {
+    background: rgba(46, 51, 58, 1);
+}
+
 @media (max-width: 1000px) {
     .responsive .wrapper {
         padding: 0 0;
