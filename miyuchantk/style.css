@@ -84,6 +84,9 @@ div#header {
 .view_game_page .game_info_panel_widget {
     background: rgba(46, 51, 58, 1);
 }
+.uploads {
+    display: none;
+}
 @media (min-width: 650px) {
     .has_site_header .user_tools {
         z-index: 3;
