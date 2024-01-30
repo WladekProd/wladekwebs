@@ -57,6 +57,11 @@ div#header {
 .screenshot_container img {
     max-width: none;
 }
+@media (max-width: 1000px) {
+    .responsive .view_game_page .screenshot_list img {
+        display: none !important;
+    }
+}
 
 .custom-screenshot_list {
     display: flex;
