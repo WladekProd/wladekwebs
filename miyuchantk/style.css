@@ -58,6 +58,19 @@ div#header {
     max-width: none;
 }
 
+.custom-screenshot_list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.custom-screenshot_list img {
+    padding: 10px;
+}
+
 .custom-w-inline-block {
     max-width: 100%;
     display: inline-block;
