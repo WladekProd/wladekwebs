@@ -657,8 +657,6 @@ a:hover {
     transition: 0.2s;
 }
 
-
-
 .custom-character:hover {
     transition: .3s;
     transform: scale(1.1);
@@ -674,6 +672,16 @@ a:hover {
     100% {
         transform: rotate(0deg) scale(1);
     }
+}
+
+.custom-about-anim {
+    transition: .3s;
+    transform: scale(1.0);
+}
+
+.custom-about-anim:hover {
+    transition: .3s;
+    transform: scale(1.03);
 }
 
 .custom-weapon-image {
