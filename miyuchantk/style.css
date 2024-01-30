@@ -74,7 +74,7 @@ div#header {
 
 .custom-screenshot_list a:hover {
     transition: .3s;
-    transform: scale(1.1);
+    transform: scale(1.03);
 }
 
 .custom-screenshot_list img {
