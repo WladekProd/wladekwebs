@@ -84,7 +84,11 @@ div#header {
 .view_game_page .game_info_panel_widget {
     background: rgba(46, 51, 58, 1);
 }
-
+@media (min-width: 650px) {
+    .has_site_header .user_tools {
+        z-index: 3;
+    }
+}
 @media (max-width: 1000px) {
     .responsive .wrapper {
         padding: 0 0;
