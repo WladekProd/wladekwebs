@@ -356,17 +356,27 @@ a:hover {
     position: relative;
     overflow: hidden;
     padding-top: 24px;
-    background-color: #1f191b;
+    /* background-color: #1f191b;
     background-image: url("https://wladekprod.github.io/wladekwebs/miyuchantk/header.jpg");
     background-position: inherit;
     background-size: 87%;
-    background-repeat: no-repeat
+    background-repeat: no-repeat */
+
+    background-color: #1f191b;
+    background-image: url("https://wladekprod.github.io/wladekwebs/miyuchantk/header.jpg");
+    background-position: center top;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .custom-section {
     position: relative;
     padding-top: 100px;
     padding-bottom: 100px
+}
+
+.custom-section.custom-black-gradient {
+    background: linear-gradient(0deg, #000000cc 270px, transparent 95%);
 }
 
 .custom-section.custom-gray {
@@ -633,7 +643,7 @@ a:hover {
 }
 
 .custom-text-display.custom-dark {
-    color: #202125
+    color: #34161f
 }
 
 .custom-text-display.custom-light {
