@@ -67,6 +67,16 @@ div#header {
     align-content: center;
 }
 
+.custom-screenshot_list a {
+    transition: .3s;
+    transform: scale(1.0);
+}
+
+.custom-screenshot_list a:hover {
+    transition: .3s;
+    transform: scale(1.1);
+}
+
 .custom-screenshot_list img {
     padding: 10px;
 }
