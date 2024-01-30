@@ -642,8 +642,12 @@ a:hover {
     text-transform: uppercase
 }
 
-.custom-text-display.custom-dark {
+.custom-text-screens.custom-dark {
     color: #34161f
+}
+
+.custom-text-display.custom-dark {
+    color: #202125
 }
 
 .custom-text-display.custom-light {
