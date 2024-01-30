@@ -54,6 +54,9 @@ div#header {
     font-family: inherit;
     font-weight: bold;
 }
+.screenshot_container img {
+    max-width: none;
+}
 
 .custom-w-inline-block {
     max-width: 100%;
