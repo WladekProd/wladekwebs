@@ -57,6 +57,9 @@ div#header {
 .screenshot_container img {
     max-width: none;
 }
+.game_comments_widget {
+    text-align: center;
+}
 .community_post_form_widget {
     display: flex;
     justify-content: center;
