@@ -674,12 +674,12 @@ a:hover {
     }
 }
 
-.custom-about-anim {
+.custom-about-anim .custom-fps-about-icon {
     transition: .3s;
     transform: scale(1.0);
 }
 
-.custom-about-anim:hover {
+.custom-about-anim:hover .custom-fps-about-icon {
     transition: .3s;
     transform: scale(1.03);
 }
